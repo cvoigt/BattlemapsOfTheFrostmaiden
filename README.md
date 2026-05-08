@@ -6,12 +6,25 @@ My goal is to workthrough the whole Adventure and provide battle maps that provi
 > ℹ️ All chapter-related battle maps follow the original layouts from the source book although distances might be adjusted to provide a more realistic scale or account for larger engagement/party sizes.
 
 ## Folder Structure
-The folder structure and naming conventions in this repository follow the order and organization of the source book ```Icewind Dale: Rime of the Frostmaiden```
+The folder structure and naming conventions in this repository follow the order and organization of the source book ```Icewind Dale: Rime of the Frostmaiden```.
+
+The root folders are following the Chapter names, followed by the Location, usually indicated by the physical location or the quest name.
 
 ```
-└───Chapter 1 - Ten-Towns
-    └───Targos - Mountain Climb
+├───Chapter 1 - Ten-Towns
+│   ├───Bremen - Lake Monster
+│   │       bm_rotf_c1_bremen_lake-monster_lake_v1.dungeondraft_map
+│   │       bm_rotf_c1_bremen_lake-monster_lake_v1_24x25_100ppi_flat.webp
+│   │       bm_rotf_c1_bremen_lake-monster_lake_v1_24x25_100ppi_flat_grid.webp
+│   │       bm_rotf_c1_bremen_lake-monster_lake_v1_24x25_100ppi_flat_noprops.webp
+│   │       bm_rotf_c1_bremen_lake-monster_lake_v1_24x25_100ppi_flat_prop1.webp
+│   │       bm_rotf_c1_bremen_lake-monster_lake_v1_24x25_300ppi_flat.png
+└───supporting files
+    └───asset samples
 ```
+
+Supporting files and samples are located in `supporting files` and purely for documentation/reference.
+
 
 ## File Formats
 All battlemaps are provided in several variations:
