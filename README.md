@@ -23,7 +23,7 @@ All battlemaps are provided in several variations:
 All files follow the following naming convention:
 
 ```
-bm_rotf_<chapter>_<location>_<version>_<variation>_<dimension>_<PPI>_<level or flat>_<grid>_<lights>.extension
+bm_rotf_<chapter>_<location>_<version>_<variation>_<dimension>_<PPI>_<level or flat>_<grid>_<lights>_<noprops>_<propx>.extension
 ```
 
 Examples:
@@ -51,6 +51,7 @@ bm_rotf_c1_targos_mountain-climb_v1_var1_30x30_100ppi_L0_prop2.png
 - `flat` if all layers are flattened into a single image
 - `grid` contains a standard grid within the exported image
 - `lights` contains the lighting baked into the export
+- `noprops` no optional props are on the scene
 - `propx` this can be used as an optional hide/show prop in the scene. It shares dimensions with the scene itself so alignment on the main scene is easiest.
 
 ## Prerequisites
