@@ -8712,6 +8712,72 @@
 				"shadow_strength": 0,
 				"blur_radius": 10,
 				"mirror_shadow": 1
+			},
+			"145": {
+				"node_id": 145,
+				"force_z": false,
+				"sun_angle": 3.800632,
+				"sun_intensity": 0.086836,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 0,
+				"blur_radius": 10,
+				"mirror_shadow": 1
+			},
+			"146": {
+				"node_id": 146,
+				"force_z": false,
+				"sun_angle": 3.800632,
+				"sun_intensity": 0.086836,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 0,
+				"blur_radius": 10,
+				"mirror_shadow": 1
+			},
+			"150": {
+				"node_id": 150,
+				"force_z": false,
+				"sun_angle": 3.800632,
+				"sun_intensity": 0.086836,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 0,
+				"blur_radius": 10,
+				"mirror_shadow": 1
+			},
+			"151": {
+				"node_id": 151,
+				"force_z": false,
+				"sun_angle": 3.800632,
+				"sun_intensity": 0.086836,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 0,
+				"blur_radius": 10,
+				"mirror_shadow": 1
+			},
+			"149": {
+				"node_id": 149,
+				"force_z": false,
+				"sun_angle": 3.800632,
+				"sun_intensity": 0.086836,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 0,
+				"blur_radius": 10,
+				"mirror_shadow": 1
+			},
+			"147": {
+				"node_id": 147,
+				"force_z": false,
+				"sun_angle": 3.800632,
+				"sun_intensity": 0.086836,
+				"shadow_quality": 4,
+				"shadow_steps": 16,
+				"shadow_strength": 0,
+				"blur_radius": 10,
+				"mirror_shadow": 1
 			}
 		}
 	}
