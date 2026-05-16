@@ -144,19 +144,6 @@ Physical representation of lights (torches, campfires, lamps etc) should be disp
 
 The `<light>` indicator can be used in exports to explicitly bake lights and lighting effects into the resulting image.
 
-## Terrain Brushes
-For a unified artstyle the following Terrain Brushes
-### Ocean / Sea / Lakes
-> ⚠️ The **Water Brush** should be avoided as it breaks the goal of a unified, realistic artstyle
-
-![FA_Textures_A - Arctic Ocean A1](supporting%20files/asset%20samples/FA_Textures_A%20-%20Arctic%20Ocean%20A1.png)
-
-`FA_Textures_A - Arctic Ocean A1`
-
-![FA_Textures_A - Arctic Ocean A2](supporting%20files/asset%20samples/FA_Textures_A%20-%20Arctic%20Ocean%20A2.png)
-
-`FA_Textures_A - Arctic Ocean A2`
-
-![FA_Textures_A - Arctic Ocean B1](supporting%20files/asset%20samples/FA_Textures_A%20-%20Arctic%20Ocean%20B1.png)
-
-`FA_Textures_A - Arctic Ocean B1`
+## Surface Textures
+You can find more details [in the Wiki](https://github.com/cvoigt/BattlemapsOfTheFrostmaiden/wiki)
+- [Art Direction ‐ Common Surface Textures](https://github.com/cvoigt/BattlemapsOfTheFrostmaiden/wiki/Art-Direction-%E2%80%90-Common-Surface-Textures)
