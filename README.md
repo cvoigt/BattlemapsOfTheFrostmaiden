@@ -108,7 +108,7 @@ All source files ar built with **Dungeondraft** and exclusively utilize the Forg
 > - 40×30 medium-large tactical encounters
 > - 50×50 large dungeon level or outdoor areas
 
-## Map Settgins - Grid Style
+## Map Settings - Grid Style
 For baked in grids in exports the `Narrow Line` provides the best compromise between visibility and artefacting when compressed.
 
 | Dark Backgrounds | Light Backgrounds |
