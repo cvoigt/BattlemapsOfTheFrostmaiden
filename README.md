@@ -32,6 +32,8 @@ All battlemaps are provided in several variations:
 - `*.webp` for optimized file size for usage in Virtual Table Top (VTT) systems like Roll20, FoundryVTT or OwlBear Rodeo
 - `*.dungeondraft_map` for import into Dungeondraft
 
+Some components like `PROPS` might only be available as PNG files due to their comparatively lower filesize.
+
 # Filenames
 All files follow the following naming convention:
 
@@ -70,6 +72,8 @@ bm_rotf_c1_targos_mountain-climb_v1_var1_30x30_100ppi_L0_prop2.png
 ## Prerequisites
 All source files ar built with **Dungeondraft** and exclusively utilize the Forgotten Adventures Asset Packs. The minimum requirements are:
 - Dungeondraft 1.2.0.1 *opulent kirin*
+  - some Dungeondraft source files require [Moulk's Unofficial Patch for Dungeondraft](https://cartographyassets.com/assets/105476/unofficial-patch-dungeondraft-mod/) and might not render/edit as expected without it.
+  - All `.dungeondraft_map` files that require the Unofficial Patch can be identified by the GitHub Labels, e.g. [Dungeondraft Version: 1.6.0+ (Unofficial Patch)](https://github.com/cvoigt/BattlemapsOfTheFrostmaiden/issues?q=label%3A%22Dungeondraft%20Version%3A%201.6.0%2B%20(Unofficial%20Patch)%22)
 - Required Dungeondraft Mods:
   - [ColourObjectsAndPaths 1.1.1](https://cartographyassets.com/assets/92440/colour-and-modify-things/) by *uchideshi34*
   - [Convert Object Into Pattern 1.0.3](https://cartographyassets.com/assets/87173/convert-object-to-pattern/) by *uchideshi34*
@@ -82,12 +86,13 @@ All source files ar built with **Dungeondraft** and exclusively utilize the Forg
   - [Layers Panel 1.0.0](https://cartographyassets.com/assets/89773/layers-panel-mod-updated/) by *uchideshi34*
   - [ScatterBrush 1.0.3](https://cartographyassets.com/assets/87314/scatter-brush/) by *uchideshi34*
   - [Universal VTT WebP Exporter 1.0.0](https://cartographyassets.com/assets/41839/universal-vtt-webp-exporter/) by *insteadofnothing*
+    - ℹ️ most walls are only partial and replaced by paths and original source files will never include lighting information. It's not recommended or intended to export these maps into a VTT format.
 - [Forgotten Adventures Asset Packs](https://www.forgotten-adventures.net/product/map-making/assets/dungeondraft-integration/) (*requires one-time Patreon membership at the Adventurer Level to gain access to the Dungeondraft packs on pCloud.*)
   - FA_Objects_A_v3.52
   - FA_Objects_B_v3.84
   - FA_Textures_A_v3.59
   - FA_Textures_B_v3.54
-
+- [AoA FX - Clouds and Water](https://cartographyassets.com/assets/8374/aoa-fx-clouds-and-water-2/)
 # Dungeondraft Configuration 
 ## New Map Settings
 - Width & Height: *depending on the source book recommendation* or `30x30` tiles
@@ -135,7 +140,7 @@ The name of Levels in Dungeondraft should reflect the naming for the Levels in [
 - Lighting `OFF` ⚙️ (*depending on `<light>` indicator*)
 - Brightness & Focus `100%`
 - Camera Filter: `None`
-- Grid Presets: `Custom` (Grid PPI `100 Pixels`)
+- Grid Presets: `Custom` (Grid PPI `130 Pixels`)
 
 
 # Art Direction
