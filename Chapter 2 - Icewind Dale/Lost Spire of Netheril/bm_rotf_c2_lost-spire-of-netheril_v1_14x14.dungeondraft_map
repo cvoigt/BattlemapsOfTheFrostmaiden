@@ -85,9 +85,9 @@
 			}
 		],
 		"editor_state": {
-			"current_level": 0,
-			"camera_position": "Vector2( 2069.19, 1630.27 )",
-			"camera_zoom": 2,
+			"current_level": 7,
+			"camera_position": "Vector2( 1568.22, 1988.92 )",
+			"camera_zoom": 1.6,
 			"guide_position": "null",
 			"trace_image": {
 				"image": "E:\\repositories\\github\\BattlemapsOfTheFrostmaiden\\Chapter 2 - Icewind Dale\\Lost Spire of Netheril\\131-map-2.10-lost-spire-L-4.jpg",
@@ -214,25 +214,55 @@
 				]
 			},
 			"object_library_memory": {
-				"mode": "all",
+				"mode": "used",
 				"scroll": 0,
 				"selected": [
-					"res://packs/FA35OB02/textures/objects/_Themed/Ceremorph/Structures/Floor_Plates/Connecting/Ceremorph_Floor_Plate_Blue_Star_A1_2x2.webp"
+
 				],
 				"search_strictness": 0.95
 			},
 			"scatter_library_memory": {
-				"mode": "tags",
-				"scroll": 994,
+				"mode": "used",
+				"scroll": 610.125,
 				"selected": [
-					"res://packs/H0hDYdyG/textures/objects/AoA_SurfaceWater/colorable/Raindrops6.png"
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A14_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A28_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A29_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A52_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A35_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A54_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A56_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A3_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A27_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A39_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A37_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A32_2x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A24_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A60_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A67_1x2.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A50_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A2_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A10_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A18_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A8_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A40_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A7_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A9_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A64_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A49_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A20_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A16_1x1.webp",
+					"res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A41_1x1.webp"
 				],
 				"search_strictness": 0.7
 			},
 			"path_library_memory": {
 				"scroll": 0,
 				"selected": [
-					"res://packs/FA35OB01/textures/paths/Shadow_Paths/ShadowPath_Half_A_60%.webp"
+					"res://packs/FA35OB01/textures/paths/Shadow_Paths/ShadowPath_A_40%.webp"
 				],
 				"search_strictness": 0.59
 			},
@@ -243,7 +273,7 @@
 		"format": 3,
 		"width": 14,
 		"height": 14,
-		"next_node_id": "5d0",
+		"next_node_id": "649",
 		"next_prefab_id": "3f",
 		"msi": {
 			"offset_map_size": 512,
@@ -266,7 +296,7 @@
 			"0": {
 				"label": "L1",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -814,7 +844,7 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 704, 1280, 715.046, 1247.07, 743.564, 1182.53, 780.192, 1120.05, 824.385, 1059.95, 875.595, 1002.53, 933.276, 948.137, 996.88, 897.078, 1065.86, 849.678, 1139.67, 806.26, 1217.77, 767.145, 1299.59, 732.655, 1384.61, 703.111, 1472.27, 678.835, 1562.03, 660.149, 1653.34, 647.374, 1745.64, 640.833, 1792, 640, 1835.06, 640.833, 1920.92, 647.374, 2005.97, 660.149, 2089.72, 678.835, 2171.64, 703.111, 2251.22, 732.655, 2327.94, 767.145, 2401.3, 806.26, 2470.77, 849.678, 2535.83, 897.078, 2595.99, 948.137, 2650.72, 1002.53, 2699.5, 1059.95, 2741.82, 1120.05, 2777.17, 1182.53, 2805.04, 1247.07, 2816, 1280, 2819.29, 1286.92, 2825.75, 1302.44, 2831.99, 1320.05, 2838.01, 1339.54, 2843.75, 1360.74, 2849.19, 1383.43, 2854.29, 1407.44, 2859.03, 1432.57, 2863.37, 1458.62, 2867.29, 1485.4, 2870.73, 1512.72, 2873.69, 1540.39, 2876.12, 1568.21, 2877.99, 1595.99, 2879.26, 1623.54, 2879.92, 1650.66, 2880, 1664, 2879.92, 1674.13, 2879.26, 1695.45, 2877.99, 1718.03, 2876.12, 1741.67, 2873.69, 1766.17, 2870.73, 1791.36, 2867.29, 1817.02, 2863.37, 1842.97, 2859.03, 1869.03, 2854.29, 1894.98, 2849.19, 1920.64, 2843.75, 1945.83, 2838.01, 1970.33, 2831.99, 1993.97, 2825.75, 2016.55, 2819.29, 2037.87, 2816, 2048, 2798.62, 2084.14, 2759.16, 2154.47, 2713.86, 2221.93, 2662.26, 2288.61, 2433.26, 2106.61, 2456.26, 2061.61, 2484.26, 2029.61, 2473.26, 1972.61, 2497.26, 1939.61, 2484.26, 1854.61, 2500.26, 1824.61, 2496, 1792, 2176, 1792, 2198.26, 1839.61, 2227.26, 1900.61, 2183.26, 1929.61, 2208.26, 1973.61, 2200.26, 2022.61, 2228.26, 2076.61, 2273.26, 2098.61, 2345.26, 2102.61, 2403.26, 2113.61, 2433.26, 2106.61, 2663.25, 2286.18, 2607.84, 2346.9, 2548.15, 2403.78, 2484.68, 2456.5, 2417.95, 2504.73, 2348.48, 2548.15, 2276.79, 2586.43, 2203.38, 2619.27, 2128.77, 2646.32, 2053.48, 2667.29, 1978.02, 2681.83, 1902.9, 2689.64, 1828.64, 2690.38, 1792, 2688, 1742.43, 2687.17, 1644.33, 2680.63, 1548.05, 2667.85, 1454.15, 2649.17, 1363.18, 2624.89, 1275.67, 2595.34, 1192.19, 2560.85, 1113.27, 2521.74, 1039.45, 2478.32, 971.302, 2430.92, 909.355, 2379.86, 854.16, 2325.47, 806.263, 2268.05, 766.213, 2207.95, 734.555, 2145.47, 711.836, 2080.93, 704, 2048, 704, 2034.83, 704, 2009.01, 704, 1984.02, 704, 1959.98, 704, 1937.01, 704, 1915.25, 704, 1894.83, 704, 1856, 448, 1856, 256, 1664, 448, 1408, 576, 1472, 704, 1472 )",
+						"points": "PoolVector2Array( 704, 1280, 715.046, 1247.07, 743.564, 1182.53, 780.192, 1120.05, 824.385, 1059.95, 875.595, 1002.53, 933.276, 948.137, 996.88, 897.078, 1065.86, 849.678, 1139.67, 806.26, 1217.77, 767.145, 1299.59, 732.655, 1384.61, 703.111, 1472.27, 678.835, 1562.03, 660.149, 1653.34, 647.374, 1745.64, 640.833, 1792, 640, 1835.06, 640.833, 1920.92, 647.374, 2005.97, 660.149, 2089.72, 678.835, 2171.64, 703.111, 2251.22, 732.655, 2327.94, 767.145, 2401.3, 806.26, 2470.77, 849.678, 2535.83, 897.078, 2595.99, 948.137, 2650.72, 1002.53, 2699.5, 1059.95, 2741.82, 1120.05, 2777.17, 1182.53, 2805.04, 1247.07, 2816, 1280, 2819.29, 1286.92, 2825.75, 1302.44, 2831.99, 1320.05, 2838.01, 1339.54, 2843.75, 1360.74, 2849.19, 1383.43, 2854.29, 1407.44, 2859.03, 1432.57, 2863.37, 1458.62, 2867.29, 1485.4, 2870.73, 1512.72, 2873.69, 1540.39, 2876.12, 1568.21, 2877.99, 1595.99, 2879.26, 1623.54, 2879.92, 1650.66, 2880, 1664, 2879.92, 1674.13, 2879.26, 1695.45, 2877.99, 1718.03, 2876.12, 1741.67, 2873.69, 1766.17, 2870.73, 1791.36, 2867.29, 1817.02, 2863.37, 1842.97, 2859.03, 1869.03, 2854.29, 1894.98, 2849.19, 1920.64, 2843.75, 1945.83, 2838.01, 1970.33, 2831.99, 1993.97, 2825.75, 2016.55, 2819.29, 2037.87, 2816, 2048, 2798.62, 2084.14, 2759.16, 2154.47, 2713.86, 2221.93, 2662.26, 2288.61, 2433.26, 2106.61, 2496.59, 2108.8, 2538.59, 2091.8, 2575.59, 2036.8, 2573.59, 1969.8, 2584.59, 1868.8, 2590.59, 1797.8, 2496, 1792, 2308.59, 1799.8, 2294.59, 1836.8, 2303.59, 1883.8, 2292.59, 1923.8, 2289.59, 1961.8, 2293.59, 2005.8, 2297.59, 2050.8, 2349.59, 2089.8, 2403.26, 2113.61, 2433.26, 2106.61, 2663.25, 2286.18, 2607.84, 2346.9, 2548.15, 2403.78, 2484.68, 2456.5, 2417.95, 2504.73, 2348.48, 2548.15, 2276.79, 2586.43, 2203.38, 2619.27, 2128.77, 2646.32, 2053.48, 2667.29, 1978.02, 2681.83, 1902.9, 2689.64, 1828.64, 2690.38, 1792, 2688, 1742.43, 2687.17, 1644.33, 2680.63, 1548.05, 2667.85, 1454.15, 2649.17, 1363.18, 2624.89, 1275.67, 2595.34, 1192.19, 2560.85, 1113.27, 2521.74, 1039.45, 2478.32, 971.302, 2430.92, 909.355, 2379.86, 854.16, 2325.47, 806.263, 2268.05, 766.213, 2207.95, 734.555, 2145.47, 711.836, 2080.93, 704, 2048, 704, 2034.83, 704, 2009.01, 704, 1984.02, 704, 1959.98, 704, 1937.01, 704, 1915.25, 704, 1894.83, 704, 1856, 448, 1856, 256, 1664, 448, 1408, 576, 1472, 704, 1472 )",
 						"layer": -100,
 						"color": "ffffffff",
 						"outline": false,
@@ -863,7 +893,7 @@
 						"position": "Vector2( 25.3334, 187.2 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 717.893, 960.005, 919.493, 748.805, 1247.49, 548.805, 1777.09, 464.005, 2228.29, 520.005, 2599.49, 756.805, 2783.49, 1003.21, 2864, 1668.8, 2672, 1668.8, 2480, 1668.8, 2416, 1604.8, 2224, 1604.8, 2160, 1668.8, 2160, 1732.8, 2224, 1924.8, 2416, 1924.8, 2480, 1668.8, 2672, 1668.8, 2864, 1668.8, 2721.09, 2024.01, 2301.89, 2428.81, 1682.69, 2499.21, 1069.89, 2331.21, 717.893, 2008.01, 669.893, 1676.81, 441.554, 1648.13, 268.293, 1500.81, 134.887, 1352.13, 310.887, 1160.13, 500.22, 1284.13, 684.293, 1267.21 )",
+						"points": "PoolVector2Array( 717.893, 960.005, 919.493, 748.805, 1247.49, 548.805, 1777.09, 464.005, 2228.29, 520.005, 2599.49, 756.805, 2783.49, 1003.21, 2864, 1668.8, 2672, 1668.8, 2561.25, 1652.6, 2476.25, 1722.6, 2392.25, 1695.6, 2314.25, 1676.6, 2275.25, 1733.6, 2276.25, 1830.6, 2355.25, 1896.6, 2477.25, 1884.6, 2535.25, 1815.6, 2488.25, 1725.6, 2561.25, 1652.6, 2672, 1668.8, 2864, 1668.8, 2721.09, 2024.01, 2301.89, 2428.81, 1682.69, 2499.21, 1069.89, 2331.21, 717.893, 2008.01, 669.893, 1676.81, 441.554, 1648.13, 268.293, 1500.81, 134.887, 1352.13, 310.887, 1160.13, 500.22, 1284.13, 684.293, 1267.21 )",
 						"layer": 300,
 						"color": "00000000",
 						"outline": false,
@@ -994,6 +1024,23 @@
 				},
 				"paths": [
 					{
+						"position": "Vector2( 2351.54, 1799.78 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( 0, 0, 264, 18.6666, 328, 40 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA35OB01/textures/paths/Natural_Decor_Paths/Cliffs_Paths/Ridge_Stone_Volcanic_A1.webp",
+						"width": 256,
+						"layer": -400,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": false,
+						"node_id": "5d2"
+					},
+					{
 						"position": "Vector2( 268.143, 1699.08 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -1028,7 +1075,7 @@
 						"node_id": "189"
 					},
 					{
-						"position": "Vector2( 2176.06, 1818.54 )",
+						"position": "Vector2( 2269.06, 1810.54 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"edit_points": "PoolVector2Array( 0, 0, 114.667, -6, 224.667, 0.666748, 312, -5.33325, 321.333, 30.6667, 328.667, 70, 320, 124.667, 308.667, 145.333, 311.333, 194.667, 313.333, 220.667, 290.667, 251.333, 274.667, 290, 227.333, 296.667, 154, 292, 113.333, 280, 52.6667, 260.667, 29.3333, 220.667, 18, 180, 4.66675, 146, 6.66675, 102.667, 38, 79.3334, 36.6667, 58.6667, 16, 42.6667, 13.3333, 0, 51.3333, -12 )",
@@ -1045,7 +1092,7 @@
 						"node_id": "64"
 					},
 					{
-						"position": "Vector2( 2186.06, 1829.21 )",
+						"position": "Vector2( 2279.06, 1821.21 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"edit_points": "PoolVector2Array( 0, 0, 264, 18.6666, 328, 40 )",
@@ -1062,7 +1109,7 @@
 						"node_id": "66"
 					},
 					{
-						"position": "Vector2( 2486.06, 1836.54 )",
+						"position": "Vector2( 2579.06, 1828.54 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"edit_points": "PoolVector2Array( 0, 0, -3.33325, 184.667, -119.333, 291.333, -281.333, 254.667 )",
@@ -1079,7 +1126,7 @@
 						"node_id": "67"
 					},
 					{
-						"position": "Vector2( 2265.4, 2131.21 )",
+						"position": "Vector2( 2358.4, 2123.21 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"edit_points": "PoolVector2Array( 0, 0, -78.6665, -103.333, -60, -313.333 )",
@@ -1990,17 +2037,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "97"
-					},
-					{
-						"position": "Vector2( 2775.82, 1578.26 )",
-						"rotation": 3.054326,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/FA35OB01/textures/objects/Decor/Storage/Safes/Safe_Small_Metal_Gray_A2_1x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "96"
 					},
 					{
 						"position": "Vector2( 1242.49, 2520.93 )",
@@ -3895,9 +3931,9 @@
 						"node_id": "500"
 					},
 					{
-						"position": "Vector2( 2215.99, 1014.79 )",
+						"position": "Vector2( 2219.99, 1008.12 )",
 						"rotation": -0.830536,
-						"scale": "Vector2( 1, 1 )",
+						"scale": "Vector2( 0.765151, 0.765151 )",
 						"mirror": false,
 						"texture": "res://packs/FA35OB01/textures/objects/Furniture/Seating/Chairs/Broken/Chair_Broken_Wood_Ashen_B3_1x1.webp",
 						"layer": 200,
@@ -3937,6 +3973,17 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "19e"
+					},
+					{
+						"position": "Vector2( 2798.92, 1588.13 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.45, 0.45 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Piles/Stone/Rubble_Pile_Stone_Volcanic_E30_Corner_2x2.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5d1"
 					}
 				],
 				"lights": [
@@ -3958,7 +4005,7 @@
 			"1": {
 				"label": "L-1 - PROP1 - Upside Down",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -4502,7 +4549,30 @@
 					}
 				},
 				"patterns": [
-
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 1053.26, 1309.14, 1251.26, 1309.14, 1251.26, 1507.8, 1053.26, 1507.8 )",
+						"layer": 200,
+						"color": "00000000",
+						"outline": false,
+						"texture": "res://packs/FA35TX01/textures/patterns/normal/Overlay_Pattern/Frost_Overlay_B1.webp",
+						"rotation": 0,
+						"node_id": "5d3"
+					},
+					{
+						"position": "Vector2( -256.212, 3072.73 )",
+						"shape_rotation": -1.570794,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 1053.26, 1309.14, 1251.26, 1309.14, 1251.26, 1507.8, 1053.26, 1507.8 )",
+						"layer": 200,
+						"color": "00000000",
+						"outline": false,
+						"texture": "res://packs/FA35TX01/textures/patterns/normal/Overlay_Pattern/Frost_Overlay_B1.webp",
+						"rotation": 0,
+						"node_id": "5d4"
+					}
 				],
 				"walls": [
 
@@ -4534,23 +4604,7 @@
 
 				},
 				"paths": [
-					{
-						"position": "Vector2( 2448.26, 911.592 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"edit_points": "PoolVector2Array( 99.3315, 93.3339, 208, 197.333, 298.666, 341.334, 350.669, 452, 352.002, 610.667 )",
-						"smoothness": 1,
-						"texture": "res://packs/FA35OB01/textures/paths/Furniture_Paths/Bar_Paths/Bar_Wood_Ashen_A_Path.png",
-						"width": 256,
-						"layer": -400,
-						"fade_in": false,
-						"fade_out": false,
-						"grow": false,
-						"shrink": false,
-						"block_light": false,
-						"loop": false,
-						"node_id": "c7"
-					}
+
 				],
 				"objects": [
 					{
@@ -4574,28 +4628,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "56f"
-					},
-					{
-						"position": "Vector2( 2799.59, 1388.92 )",
-						"rotation": 1.570796,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/FA35OB01/textures/objects/Furniture/Bars_and_Counters/Bar_Wood_Ashen_A2_Rusty_3x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "c9"
-					},
-					{
-						"position": "Vector2( 2542.92, 1000.26 )",
-						"rotation": 0.785398,
-						"scale": "Vector2( -1, 1 )",
-						"mirror": true,
-						"texture": "res://packs/FA35OB01/textures/objects/Furniture/Bars_and_Counters/Bar_Wood_Ashen_A2_3x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "c8"
 					},
 					{
 						"position": "Vector2( 796.443, 1925.21 )",
@@ -5098,6 +5130,17 @@
 						"block_light": false,
 						"node_id": "5a0",
 						"prefab_id": "61"
+					},
+					{
+						"position": "Vector2( 2769.15, 1530.26 )",
+						"rotation": 3.054326,
+						"scale": "Vector2( 1.39436, 1.39436 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Decor/Storage/Safes/Safe_Small_Metal_Gray_A2_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5d0"
 					}
 				],
 				"lights": [
@@ -5119,7 +5162,7 @@
 			"2": {
 				"label": "L2",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -5823,6 +5866,23 @@
 				},
 				"paths": [
 					{
+						"position": "Vector2( 2816.06, 2045.53 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( -0.062439, 2.47005, 0.104065, -4.11674, 1.41241, -17.0231, 3.96735, -29.5192, 7.70465, -41.5407, 12.5599, -53.0232, 18.4686, -63.9026, 25.3668, -74.1144, 33.1898, -83.5943, 41.8734, -92.2779, 51.3531, -100.101, 61.565, -106.999, 72.4442, -112.908, 83.9271, -117.763, 95.9483, -121.5, 108.444, -124.055, 121.351, -125.363, 127.938, -125.53, 134.524, -125.363, 147.431, -124.055, 159.927, -121.5, 171.948, -117.763, 183.431, -112.908, 194.31, -106.999, 204.522, -100.101, 214.002, -92.2779, 222.685, -83.5943, 230.508, -74.1144, 237.407, -63.9026, 243.315, -53.0232, 248.17, -41.5407, 251.908, -29.5192, 254.463, -17.0231, 255.771, -4.11674, 255.938, 2.47005, 255.771, 9.05696, 254.463, 21.9632, 251.908, 34.4593, 248.17, 46.4805, 243.315, 57.9635, 237.407, 68.8426, 230.508, 79.0545, 222.685, 88.5343, 214.002, 97.2178, 204.522, 105.041, 194.31, 111.939, 183.431, 117.848, 171.948, 122.703, 159.927, 126.44, 147.431, 128.995, 134.524, 130.304, 127.938, 130.47, 121.351, 130.304, 108.444, 128.995, 95.9483, 126.44, 83.9271, 122.703, 72.4442, 117.848, 61.565, 111.939, 51.3531, 105.041, 41.8734, 97.2178, 33.1898, 88.5343, 25.3668, 79.0545, 18.4686, 68.8426, 12.5599, 57.9635, 7.70465, 46.4805, 3.96735, 34.4593, 1.41241, 21.9632, 0.104065, 9.05696, -0.062439, 2.47005 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA35OB01/textures/paths/Shadow_Paths/ShadowPath_A_40%.webp",
+						"width": 256,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": true,
+						"node_id": "5d6"
+					},
+					{
 						"position": "Vector2( 2145.27, 1902.49 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -6165,9 +6225,37 @@
 						"loop": false,
 						"node_id": "400",
 						"prefab_id": "25"
+					},
+					{
+						"position": "Vector2( 2816, 2048 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( -0.062439, 2.47005, 0.104065, -4.11674, 1.41241, -17.0231, 3.96735, -29.5192, 7.70465, -41.5407, 12.5599, -53.0232, 18.4686, -63.9026, 25.3668, -74.1144, 33.1898, -83.5943, 41.8734, -92.2779, 51.3531, -100.101, 61.565, -106.999, 72.4442, -112.908, 83.9271, -117.763, 95.9483, -121.5, 108.444, -124.055, 121.351, -125.363, 127.938, -125.53, 134.524, -125.363, 147.431, -124.055, 159.927, -121.5, 171.948, -117.763, 183.431, -112.908, 194.31, -106.999, 204.522, -100.101, 214.002, -92.2779, 222.685, -83.5943, 230.508, -74.1144, 237.407, -63.9026, 243.315, -53.0232, 248.17, -41.5407, 251.908, -29.5192, 254.463, -17.0231, 255.771, -4.11674, 255.938, 2.47005, 255.771, 9.05696, 254.463, 21.9632, 251.908, 34.4593, 248.17, 46.4805, 243.315, 57.9635, 237.407, 68.8426, 230.508, 79.0545, 222.685, 88.5343, 214.002, 97.2178, 204.522, 105.041, 194.31, 111.939, 183.431, 117.848, 171.948, 122.703, 159.927, 126.44, 147.431, 128.995, 134.524, 130.304, 127.938, 130.47, 121.351, 130.304, 108.444, 128.995, 95.9483, 126.44, 83.9271, 122.703, 72.4442, 117.848, 61.565, 111.939, 51.3531, 105.041, 41.8734, 97.2178, 33.1898, 88.5343, 25.3668, 79.0545, 18.4686, 68.8426, 12.5599, 57.9635, 7.70465, 46.4805, 3.96735, 34.4593, 1.41241, 21.9632, 0.104065, 9.05696, -0.062439, 2.47005 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA35OB01/textures/paths/Shadow_Paths/ShadowPath_A_40%.webp",
+						"width": 256,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": true,
+						"node_id": "5d8"
 					}
 				],
 				"objects": [
+					{
+						"position": "Vector2( 1344, 1408 )",
+						"rotation": 1.797107,
+						"scale": "Vector2( 0.722969, 0.722969 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A8_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5ef"
+					},
 					{
 						"position": "Vector2( 2015.15, 573.2 )",
 						"rotation": -2.617994,
@@ -6257,8 +6345,8 @@
 						"node_id": "5b8"
 					},
 					{
-						"position": "Vector2( 2432, 1920 )",
-						"rotation": 1.134464,
+						"position": "Vector2( 2458.67, 1893.33 )",
+						"rotation": 1.919862,
 						"scale": "Vector2( 0.65, 0.65 )",
 						"mirror": false,
 						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Piles/Stone/Rubble_Pile_Stone_Volcanic_B23_3x3.webp",
@@ -7557,7 +7645,7 @@
 					},
 					{
 						"position": "Vector2( 3008.27, 2047.93 )",
-						"rotation": -3.141593,
+						"rotation": 3.141592,
 						"scale": "Vector2( 0.5, 0.5 )",
 						"mirror": false,
 						"texture": "res://packs/FA35OB01/textures/objects/Structures/Stairs_and_Ladders/Stairs_Stone/Stairs_Stone_Volcanic_Turn_B_1x2.webp",
@@ -7638,6 +7726,292 @@
 						"block_light": false,
 						"node_id": "3fc",
 						"prefab_id": "25"
+					},
+					{
+						"position": "Vector2( 1984, 832 )",
+						"rotation": -0.904229,
+						"scale": "Vector2( 0.418122, 0.418122 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A50_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5dc"
+					},
+					{
+						"position": "Vector2( 2432, 1408 )",
+						"rotation": -1.049183,
+						"scale": "Vector2( 0.691205, 0.691205 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A7_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5dd"
+					},
+					{
+						"position": "Vector2( 1984, 1408 )",
+						"rotation": -0.400572,
+						"scale": "Vector2( 0.470648, 0.470648 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A29_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5de"
+					},
+					{
+						"position": "Vector2( 2816, 1280 )",
+						"rotation": 1.990849,
+						"scale": "Vector2( 0.266451, 0.266451 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5df"
+					},
+					{
+						"position": "Vector2( 3072, 1408 )",
+						"rotation": -2.583988,
+						"scale": "Vector2( 0.53046, 0.53046 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A7_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e0"
+					},
+					{
+						"position": "Vector2( 2176, 1920 )",
+						"rotation": -2.421041,
+						"scale": "Vector2( 0.527504, 0.527504 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e1"
+					},
+					{
+						"position": "Vector2( 1984, 1856 )",
+						"rotation": 1.372711,
+						"scale": "Vector2( 0.296729, 0.296729 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A24_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e2"
+					},
+					{
+						"position": "Vector2( 1856, 1856 )",
+						"rotation": 0.834133,
+						"scale": "Vector2( 0.251338, 0.251338 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e3"
+					},
+					{
+						"position": "Vector2( 1856, 2240 )",
+						"rotation": -1.676718,
+						"scale": "Vector2( 0.290651, 0.290651 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A41_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e4"
+					},
+					{
+						"position": "Vector2( 1984, 2304 )",
+						"rotation": -2.548603,
+						"scale": "Vector2( 0.281917, 0.281917 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A41_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e5"
+					},
+					{
+						"position": "Vector2( 2368, 2176 )",
+						"rotation": 2.438994,
+						"scale": "Vector2( 0.312971, 0.312971 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e6"
+					},
+					{
+						"position": "Vector2( 2624, 2240 )",
+						"rotation": 0.555068,
+						"scale": "Vector2( 0.286643, 0.286643 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A67_1x2.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e8"
+					},
+					{
+						"position": "Vector2( 2304, 1600 )",
+						"rotation": 3.0674,
+						"scale": "Vector2( 0.668249, 0.668249 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A3_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5e9"
+					},
+					{
+						"position": "Vector2( 1280, 1856 )",
+						"rotation": -2.045683,
+						"scale": "Vector2( 0.363466, 0.363466 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A14_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5ea"
+					},
+					{
+						"position": "Vector2( 1408, 1792 )",
+						"rotation": -2.676712,
+						"scale": "Vector2( 0.510392, 0.510392 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5eb"
+					},
+					{
+						"position": "Vector2( 1792, 1408 )",
+						"rotation": 2.535815,
+						"scale": "Vector2( 0.44653, 0.44653 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A54_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5ec"
+					},
+					{
+						"position": "Vector2( 1536, 1088 )",
+						"rotation": 0.091335,
+						"scale": "Vector2( 0.341559, 0.341559 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5ed"
+					},
+					{
+						"position": "Vector2( 1408, 1152 )",
+						"rotation": 3.027318,
+						"scale": "Vector2( 0.315072, 0.315072 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A9_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5ee"
+					},
+					{
+						"position": "Vector2( 3008, 1216 )",
+						"rotation": -1.791017,
+						"scale": "Vector2( 0.404699, 0.404699 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A40_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f0"
+					},
+					{
+						"position": "Vector2( 2752, 1408 )",
+						"rotation": 0.140917,
+						"scale": "Vector2( 0.285306, 0.285306 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A24_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f1"
+					},
+					{
+						"position": "Vector2( 1792, 896 )",
+						"rotation": -2.908587,
+						"scale": "Vector2( 0.608643, 0.608643 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A39_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f2"
+					},
+					{
+						"position": "Vector2( 2176, 1664 )",
+						"rotation": 0.075089,
+						"scale": "Vector2( 0.419774, 0.419774 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f3"
+					},
+					{
+						"position": "Vector2( 1664, 1728 )",
+						"rotation": -0.653142,
+						"scale": "Vector2( 0.417709, 0.417709 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A32_2x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f4"
+					},
+					{
+						"position": "Vector2( 2304, 2560 )",
+						"rotation": -2.107048,
+						"scale": "Vector2( 0.321477, 0.321477 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A2_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f5"
+					},
+					{
+						"position": "Vector2( 2432, 2560 )",
+						"rotation": -2.519466,
+						"scale": "Vector2( 0.477668, 0.477668 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A9_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f6"
+					},
+					{
+						"position": "Vector2( 2112, 2624 )",
+						"rotation": 2.498043,
+						"scale": "Vector2( 0.27774, 0.27774 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A40_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5f7"
 					}
 				],
 				"lights": [
@@ -7659,7 +8033,7 @@
 			"3": {
 				"label": "L2 - PROP1 - Upside Down",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -8299,66 +8673,6 @@
 						"prefab_id": "46"
 					},
 					{
-						"position": "Vector2( 3159.92, 1690.84 )",
-						"rotation": 6.283185,
-						"scale": "Vector2( 1.1, 1.1 )",
-						"mirror": false,
-						"texture": "res://packs/FA35OB01/textures/objects/Decor/Pottery/Pot_Stone_Slate_Lid_F_1x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "549",
-						"prefab_id": "47"
-					},
-					{
-						"position": "Vector2( 3159.92, 1690.34 )",
-						"rotation": 3.141592,
-						"scale": "Vector2( 0.325, 0.325 )",
-						"mirror": false,
-						"texture": "res://packs/FA35OB01/textures/objects/Structures/Pipes/Tiny/Polished/Pipe_Metal_Polished_Corner_Tiny_G1_2x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "54a",
-						"prefab_id": "47"
-					},
-					{
-						"position": "Vector2( 3210.42, 1705.34 )",
-						"rotation": 6.283185,
-						"scale": "Vector2( -0.9, 0.9 )",
-						"mirror": true,
-						"texture": "res://packs/FA35OB01/textures/objects/Workplace_Equipment/Tools/Nails_Bolts_and_Bits/Nail_Side_Metal_Gray_A1_1x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "54b",
-						"prefab_id": "47"
-					},
-					{
-						"position": "Vector2( 3210.3, 1675.65 )",
-						"rotation": 3.141592,
-						"scale": "Vector2( 0.9, 0.9 )",
-						"mirror": false,
-						"texture": "res://packs/FA35OB01/textures/objects/Workplace_Equipment/Tools/Nails_Bolts_and_Bits/Nail_Side_Metal_Gray_A1_1x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "54c",
-						"prefab_id": "47"
-					},
-					{
-						"position": "Vector2( 3189.42, 1691.34 )",
-						"rotation": 6.283185,
-						"scale": "Vector2( 0.9, 0.9 )",
-						"mirror": false,
-						"texture": "res://packs/FA35OB01/textures/objects/Structures/Mechanical_Parts/Misc/Hinge_Metal_Gray_A1_1x1.webp",
-						"layer": 200,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "54d",
-						"prefab_id": "47"
-					},
-					{
 						"position": "Vector2( 2686.24, 1467.16 )",
 						"rotation": 7.853981,
 						"scale": "Vector2( 1.1, 1.1 )",
@@ -8678,7 +8992,7 @@
 			"4": {
 				"label": "L3",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -9604,6 +9918,23 @@
 						"loop": false,
 						"node_id": "3e8",
 						"prefab_id": "23"
+					},
+					{
+						"position": "Vector2( 2560, 2176 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( -0.062439, 2.47005, 0.104065, -4.11674, 1.41241, -17.0231, 3.96735, -29.5192, 7.70465, -41.5407, 12.5599, -53.0232, 18.4686, -63.9026, 25.3668, -74.1144, 33.1898, -83.5943, 41.8734, -92.2779, 51.3531, -100.101, 61.565, -106.999, 72.4442, -112.908, 83.9271, -117.763, 95.9483, -121.5, 108.444, -124.055, 121.351, -125.363, 127.938, -125.53, 134.524, -125.363, 147.431, -124.055, 159.927, -121.5, 171.948, -117.763, 183.431, -112.908, 194.31, -106.999, 204.522, -100.101, 214.002, -92.2779, 222.685, -83.5943, 230.508, -74.1144, 237.407, -63.9026, 243.315, -53.0232, 248.17, -41.5407, 251.908, -29.5192, 254.463, -17.0231, 255.771, -4.11674, 255.938, 2.47005, 255.771, 9.05696, 254.463, 21.9632, 251.908, 34.4593, 248.17, 46.4805, 243.315, 57.9635, 237.407, 68.8426, 230.508, 79.0545, 222.685, 88.5343, 214.002, 97.2178, 204.522, 105.041, 194.31, 111.939, 183.431, 117.848, 171.948, 122.703, 159.927, 126.44, 147.431, 128.995, 134.524, 130.304, 127.938, 130.47, 121.351, 130.304, 108.444, 128.995, 95.9483, 126.44, 83.9271, 122.703, 72.4442, 117.848, 61.565, 111.939, 51.3531, 105.041, 41.8734, 97.2178, 33.1898, 88.5343, 25.3668, 79.0545, 18.4686, 68.8426, 12.5599, 57.9635, 7.70465, 46.4805, 3.96735, 34.4593, 1.41241, 21.9632, 0.104065, 9.05696, -0.062439, 2.47005 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA35OB01/textures/paths/Shadow_Paths/ShadowPath_A_40%.webp",
+						"width": 256,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": true,
+						"node_id": "5da"
 					}
 				],
 				"objects": [
@@ -11332,6 +11663,391 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "4ec"
+					},
+					{
+						"position": "Vector2( 1280, 1344 )",
+						"rotation": -1.100127,
+						"scale": "Vector2( 0.628174, 0.628174 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5fb"
+					},
+					{
+						"position": "Vector2( 1088, 1472 )",
+						"rotation": 0.536144,
+						"scale": "Vector2( 0.545974, 0.545974 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A3_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5fc"
+					},
+					{
+						"position": "Vector2( 1344, 1536 )",
+						"rotation": 1.270618,
+						"scale": "Vector2( 0.422114, 0.422114 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A40_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5fd"
+					},
+					{
+						"position": "Vector2( 1728, 1536 )",
+						"rotation": -1.162775,
+						"scale": "Vector2( 0.545005, 0.545005 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A20_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5fe"
+					},
+					{
+						"position": "Vector2( 1984, 1600 )",
+						"rotation": -0.475801,
+						"scale": "Vector2( 0.489663, 0.489663 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A10_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "5ff"
+					},
+					{
+						"position": "Vector2( 1984, 1792 )",
+						"rotation": -0.348797,
+						"scale": "Vector2( 0.343619, 0.343619 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A67_1x2.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "600"
+					},
+					{
+						"position": "Vector2( 1792, 2240 )",
+						"rotation": 2.779532,
+						"scale": "Vector2( 0.671509, 0.671509 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A60_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "601"
+					},
+					{
+						"position": "Vector2( 2048, 2304 )",
+						"rotation": -0.233789,
+						"scale": "Vector2( 0.53223, 0.53223 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A16_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "602"
+					},
+					{
+						"position": "Vector2( 1664, 2560 )",
+						"rotation": -1.640076,
+						"scale": "Vector2( 0.726307, 0.726307 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "603"
+					},
+					{
+						"position": "Vector2( 1920, 2688 )",
+						"rotation": 1.319259,
+						"scale": "Vector2( 0.672026, 0.672026 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A39_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "604"
+					},
+					{
+						"position": "Vector2( 2432, 2560 )",
+						"rotation": 2.969695,
+						"scale": "Vector2( 0.657056, 0.657056 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A16_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "606"
+					},
+					{
+						"position": "Vector2( 1856, 1536 )",
+						"rotation": 1.911957,
+						"scale": "Vector2( 0.663936, 0.663936 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A10_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "607"
+					},
+					{
+						"position": "Vector2( 2496, 2304 )",
+						"rotation": 2.899896,
+						"scale": "Vector2( 0.484133, 0.484133 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A49_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "608"
+					},
+					{
+						"position": "Vector2( 2240, 2240 )",
+						"rotation": 0.059329,
+						"scale": "Vector2( 0.33651, 0.33651 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A18_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "609"
+					},
+					{
+						"position": "Vector2( 2240, 2048 )",
+						"rotation": 1.566917,
+						"scale": "Vector2( 0.289186, 0.289186 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A41_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "60a"
+					},
+					{
+						"position": "Vector2( 2240, 1856 )",
+						"rotation": -2.197053,
+						"scale": "Vector2( 0.452659, 0.452659 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A3_1x1.webp",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "60b"
+					},
+					{
+						"position": "Vector2( 2240, 2560 )",
+						"rotation": -2.562203,
+						"scale": "Vector2( 0.514317, 0.514317 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "60c"
+					},
+					{
+						"position": "Vector2( 1728, 2432 )",
+						"rotation": 0.098593,
+						"scale": "Vector2( 0.698485, 0.698485 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A10_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "60d"
+					},
+					{
+						"position": "Vector2( 1728, 2048 )",
+						"rotation": 0.239601,
+						"scale": "Vector2( 0.470267, 0.470267 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A56_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "60e"
+					},
+					{
+						"position": "Vector2( 2816, 1792 )",
+						"rotation": -1.098901,
+						"scale": "Vector2( 0.401005, 0.401005 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A28_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "60f"
+					},
+					{
+						"position": "Vector2( 2752, 1536 )",
+						"rotation": 1.378142,
+						"scale": "Vector2( 0.502666, 0.502666 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A49_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "610"
+					},
+					{
+						"position": "Vector2( 2880, 1664 )",
+						"rotation": -0.915854,
+						"scale": "Vector2( 0.7325, 0.7325 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A41_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "611"
+					},
+					{
+						"position": "Vector2( 2240, 1472 )",
+						"rotation": -3.135664,
+						"scale": "Vector2( 0.699943, 0.699943 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A7_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "612"
+					},
+					{
+						"position": "Vector2( 2496, 1792 )",
+						"rotation": -0.563463,
+						"scale": "Vector2( 0.461541, 0.461541 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A28_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "613"
+					},
+					{
+						"position": "Vector2( 2176, 1664 )",
+						"rotation": 2.053706,
+						"scale": "Vector2( 0.274386, 0.274386 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "614"
+					},
+					{
+						"position": "Vector2( 2432, 1536 )",
+						"rotation": 1.658685,
+						"scale": "Vector2( 0.38698, 0.38698 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A14_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "615"
+					},
+					{
+						"position": "Vector2( 2432, 960 )",
+						"rotation": 1.133224,
+						"scale": "Vector2( 0.29031, 0.29031 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A64_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "616"
+					},
+					{
+						"position": "Vector2( 1664, 896 )",
+						"rotation": -3.067222,
+						"scale": "Vector2( 0.312639, 0.312639 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A41_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "617"
+					},
+					{
+						"position": "Vector2( 1600, 1344 )",
+						"rotation": -1.529635,
+						"scale": "Vector2( 0.354216, 0.354216 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A37_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "618"
+					},
+					{
+						"position": "Vector2( 2304, 896 )",
+						"rotation": -1.390393,
+						"scale": "Vector2( 0.364602, 0.364602 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A60_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "619"
+					},
+					{
+						"position": "Vector2( 1088, 2112 )",
+						"rotation": -0.89454,
+						"scale": "Vector2( 0.353975, 0.353975 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A32_2x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "61a"
+					},
+					{
+						"position": "Vector2( 1344, 2304 )",
+						"rotation": 2.687822,
+						"scale": "Vector2( 0.343444, 0.343444 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A16_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "61b"
+					},
+					{
+						"position": "Vector2( 1152, 2240 )",
+						"rotation": 0.535469,
+						"scale": "Vector2( 0.348141, 0.348141 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A37_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "61c"
+					},
+					{
+						"position": "Vector2( 1344, 2176 )",
+						"rotation": -0.814849,
+						"scale": "Vector2( 0.705253, 0.705253 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "61d"
+					},
+					{
+						"position": "Vector2( 960, 1536 )",
+						"rotation": -1.744064,
+						"scale": "Vector2( 0.587965, 0.587965 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A39_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "61e"
 					}
 				],
 				"lights": [
@@ -11353,7 +12069,7 @@
 			"5": {
 				"label": "L3 - PROP1 - Upside Down",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -12323,7 +13039,7 @@
 			"6": {
 				"label": "L4",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -13299,6 +14015,23 @@
 						"loop": false,
 						"node_id": "5ce",
 						"prefab_id": "31"
+					},
+					{
+						"position": "Vector2( 2368, 2304 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"edit_points": "PoolVector2Array( -0.062439, 2.47005, 0.104065, -4.11674, 1.41241, -17.0231, 3.96735, -29.5192, 7.70465, -41.5407, 12.5599, -53.0232, 18.4686, -63.9026, 25.3668, -74.1144, 33.1898, -83.5943, 41.8734, -92.2779, 51.3531, -100.101, 61.565, -106.999, 72.4442, -112.908, 83.9271, -117.763, 95.9483, -121.5, 108.444, -124.055, 121.351, -125.363, 127.938, -125.53, 134.524, -125.363, 147.431, -124.055, 159.927, -121.5, 171.948, -117.763, 183.431, -112.908, 194.31, -106.999, 204.522, -100.101, 214.002, -92.2779, 222.685, -83.5943, 230.508, -74.1144, 237.407, -63.9026, 243.315, -53.0232, 248.17, -41.5407, 251.908, -29.5192, 254.463, -17.0231, 255.771, -4.11674, 255.938, 2.47005, 255.771, 9.05696, 254.463, 21.9632, 251.908, 34.4593, 248.17, 46.4805, 243.315, 57.9635, 237.407, 68.8426, 230.508, 79.0545, 222.685, 88.5343, 214.002, 97.2178, 204.522, 105.041, 194.31, 111.939, 183.431, 117.848, 171.948, 122.703, 159.927, 126.44, 147.431, 128.995, 134.524, 130.304, 127.938, 130.47, 121.351, 130.304, 108.444, 128.995, 95.9483, 126.44, 83.9271, 122.703, 72.4442, 117.848, 61.565, 111.939, 51.3531, 105.041, 41.8734, 97.2178, 33.1898, 88.5343, 25.3668, 79.0545, 18.4686, 68.8426, 12.5599, 57.9635, 7.70465, 46.4805, 3.96735, 34.4593, 1.41241, 21.9632, 0.104065, 9.05696, -0.062439, 2.47005 )",
+						"smoothness": 1,
+						"texture": "res://packs/FA35OB01/textures/paths/Shadow_Paths/ShadowPath_A_40%.webp",
+						"width": 256,
+						"layer": 100,
+						"fade_in": false,
+						"fade_out": false,
+						"grow": false,
+						"shrink": false,
+						"block_light": false,
+						"loop": true,
+						"node_id": "5db"
 					}
 				],
 				"objects": [
@@ -15157,6 +15890,391 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "4ed"
+					},
+					{
+						"position": "Vector2( 832, 2176 )",
+						"rotation": -0.119503,
+						"scale": "Vector2( 0.318998, 0.318998 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "61f"
+					},
+					{
+						"position": "Vector2( 1984, 2816 )",
+						"rotation": 1.537082,
+						"scale": "Vector2( 0.627302, 0.627302 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A39_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "620"
+					},
+					{
+						"position": "Vector2( 1216, 2176 )",
+						"rotation": -2.778014,
+						"scale": "Vector2( 0.484281, 0.484281 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A60_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "621"
+					},
+					{
+						"position": "Vector2( 1024, 2112 )",
+						"rotation": -1.818177,
+						"scale": "Vector2( 0.583444, 0.583444 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A49_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "622"
+					},
+					{
+						"position": "Vector2( 768, 1536 )",
+						"rotation": -0.52148,
+						"scale": "Vector2( 0.354903, 0.354903 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "623"
+					},
+					{
+						"position": "Vector2( 768, 1920 )",
+						"rotation": -2.304773,
+						"scale": "Vector2( 0.558587, 0.558587 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A24_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "624"
+					},
+					{
+						"position": "Vector2( 1344, 1856 )",
+						"rotation": -2.80846,
+						"scale": "Vector2( 0.287914, 0.287914 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A29_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "625"
+					},
+					{
+						"position": "Vector2( 1472, 1984 )",
+						"rotation": -3.136584,
+						"scale": "Vector2( 0.484662, 0.484662 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "626"
+					},
+					{
+						"position": "Vector2( 1280, 1664 )",
+						"rotation": 0.358738,
+						"scale": "Vector2( 0.372861, 0.372861 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A40_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "627"
+					},
+					{
+						"position": "Vector2( 1344, 1024 )",
+						"rotation": 0.442515,
+						"scale": "Vector2( 0.279789, 0.279789 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A16_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "628"
+					},
+					{
+						"position": "Vector2( 832, 1280 )",
+						"rotation": -1.167756,
+						"scale": "Vector2( 0.469599, 0.469599 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "629"
+					},
+					{
+						"position": "Vector2( 1024, 1216 )",
+						"rotation": -1.860062,
+						"scale": "Vector2( 0.623301, 0.623301 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A27_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "62a"
+					},
+					{
+						"position": "Vector2( 896, 1536 )",
+						"rotation": 2.735128,
+						"scale": "Vector2( 0.292174, 0.292174 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A46_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "62b"
+					},
+					{
+						"position": "Vector2( 1792, 1152 )",
+						"rotation": 1.379447,
+						"scale": "Vector2( 0.509036, 0.509036 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A64_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "62c"
+					},
+					{
+						"position": "Vector2( 1920, 960 )",
+						"rotation": -2.699877,
+						"scale": "Vector2( 0.292509, 0.292509 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A56_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "62d"
+					},
+					{
+						"position": "Vector2( 2304, 1664 )",
+						"rotation": -2.022578,
+						"scale": "Vector2( 0.730694, 0.730694 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "62e"
+					},
+					{
+						"position": "Vector2( 2624, 1664 )",
+						"rotation": -1.69463,
+						"scale": "Vector2( 0.458759, 0.458759 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A3_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "62f"
+					},
+					{
+						"position": "Vector2( 2432, 1280 )",
+						"rotation": 3.116892,
+						"scale": "Vector2( 0.361441, 0.361441 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A8_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "630"
+					},
+					{
+						"position": "Vector2( 1984, 2048 )",
+						"rotation": 2.490324,
+						"scale": "Vector2( 0.386833, 0.386833 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A8_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "631"
+					},
+					{
+						"position": "Vector2( 1600, 2432 )",
+						"rotation": -2.935114,
+						"scale": "Vector2( 0.548994, 0.548994 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "632"
+					},
+					{
+						"position": "Vector2( 960, 2432 )",
+						"rotation": -1.571531,
+						"scale": "Vector2( 0.584593, 0.584593 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "633"
+					},
+					{
+						"position": "Vector2( 1280, 2688 )",
+						"rotation": 3.027744,
+						"scale": "Vector2( 0.253486, 0.253486 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A14_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "634"
+					},
+					{
+						"position": "Vector2( 2048, 2368 )",
+						"rotation": -1.397773,
+						"scale": "Vector2( 0.709383, 0.709383 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A2_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "635"
+					},
+					{
+						"position": "Vector2( 1984, 2176 )",
+						"rotation": 1.146031,
+						"scale": "Vector2( 0.441638, 0.441638 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A47_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "636"
+					},
+					{
+						"position": "Vector2( 2240, 2112 )",
+						"rotation": -1.325729,
+						"scale": "Vector2( 0.584256, 0.584256 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A18_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "637"
+					},
+					{
+						"position": "Vector2( 2176, 2240 )",
+						"rotation": 2.645478,
+						"scale": "Vector2( 0.478014, 0.478014 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A27_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "638"
+					},
+					{
+						"position": "Vector2( 1728, 2112 )",
+						"rotation": -1.66399,
+						"scale": "Vector2( 0.490938, 0.490938 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A52_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "639"
+					},
+					{
+						"position": "Vector2( 1472, 2240 )",
+						"rotation": 0.993266,
+						"scale": "Vector2( 0.260518, 0.260518 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A20_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "63a"
+					},
+					{
+						"position": "Vector2( 704, 2112 )",
+						"rotation": -2.115044,
+						"scale": "Vector2( 0.533282, 0.533282 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A16_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "63b"
+					},
+					{
+						"position": "Vector2( 960, 1856 )",
+						"rotation": -0.704532,
+						"scale": "Vector2( 0.591317, 0.591317 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A7_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "63c"
+					},
+					{
+						"position": "Vector2( 1088, 1472 )",
+						"rotation": 1.335072,
+						"scale": "Vector2( 0.324408, 0.324408 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A50_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "63d"
+					},
+					{
+						"position": "Vector2( 1408, 1280 )",
+						"rotation": 0.668751,
+						"scale": "Vector2( 0.320447, 0.320447 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A40_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "63e"
+					},
+					{
+						"position": "Vector2( 1984, 1280 )",
+						"rotation": -1.780177,
+						"scale": "Vector2( 0.662085, 0.662085 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A60_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "63f"
+					},
+					{
+						"position": "Vector2( 2368, 1536 )",
+						"rotation": 0.029974,
+						"scale": "Vector2( 0.395323, 0.395323 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A27_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "640"
+					},
+					{
+						"position": "Vector2( 2112, 1664 )",
+						"rotation": 2.025004,
+						"scale": "Vector2( 0.308741, 0.308741 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Rubble/Rubble_Pieces/Stone/Rubble_Stone_Volcanic_A62_1x1.webp",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "641"
 					}
 				],
 				"lights": [
@@ -15178,7 +16296,7 @@
 			"7": {
 				"label": "L4 - PROP1 - Upside Down",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -15759,7 +16877,7 @@
 				"objects": [
 					{
 						"position": "Vector2( 1567.57, 2374.74 )",
-						"rotation": 4.712389,
+						"rotation": -1.570796,
 						"scale": "Vector2( 1.1, 1.1 )",
 						"mirror": false,
 						"texture": "res://packs/FA35OB01/textures/objects/Decor/Pottery/Pot_Stone_Slate_Lid_F_1x1.webp",
@@ -15783,9 +16901,9 @@
 					},
 					{
 						"position": "Vector2( 1582.07, 2324.24 )",
-						"rotation": 4.712389,
-						"scale": "Vector2( -0.9, 0.9 )",
-						"mirror": true,
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.9, -0.9 )",
+						"mirror": false,
 						"texture": "res://packs/FA35OB01/textures/objects/Workplace_Equipment/Tools/Nails_Bolts_and_Bits/Nail_Side_Metal_Gray_A1_1x1.webp",
 						"layer": 200,
 						"shadow": false,
@@ -15807,7 +16925,7 @@
 					},
 					{
 						"position": "Vector2( 1568.07, 2345.24 )",
-						"rotation": 4.712389,
+						"rotation": -1.570796,
 						"scale": "Vector2( 0.9, 0.9 )",
 						"mirror": false,
 						"texture": "res://packs/FA35OB01/textures/objects/Structures/Mechanical_Parts/Misc/Hinge_Metal_Gray_A1_1x1.webp",
@@ -16056,6 +17174,66 @@
 						"block_light": false,
 						"node_id": "51b",
 						"prefab_id": "37"
+					},
+					{
+						"position": "Vector2( 1535.56, 2120.8 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1.1, 1.1 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Decor/Pottery/Pot_Stone_Slate_Lid_F_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "643",
+						"prefab_id": "10001"
+					},
+					{
+						"position": "Vector2( 1535.06, 2120.8 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.325, 0.325 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Structures/Pipes/Tiny/Polished/Pipe_Metal_Polished_Corner_Tiny_G1_2x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "644",
+						"prefab_id": "10001"
+					},
+					{
+						"position": "Vector2( 1550.06, 2070.3 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.9, -0.9 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Workplace_Equipment/Tools/Nails_Bolts_and_Bits/Nail_Side_Metal_Gray_A1_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "645",
+						"prefab_id": "10001"
+					},
+					{
+						"position": "Vector2( 1520.37, 2070.42 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Workplace_Equipment/Tools/Nails_Bolts_and_Bits/Nail_Side_Metal_Gray_A1_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "646",
+						"prefab_id": "10001"
+					},
+					{
+						"position": "Vector2( 1536.06, 2091.3 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/FA35OB01/textures/objects/Structures/Mechanical_Parts/Misc/Hinge_Metal_Gray_A1_1x1.webp",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "647",
+						"prefab_id": "10001"
 					}
 				],
 				"lights": [
@@ -16077,7 +17255,7 @@
 			"8": {
 				"label": "TERRAIN - ICE",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -16625,7 +17803,7 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( -64, 256, 3584, 256, 3648, 1792, 2176, 1792, 2176, 1920, 1984, 1728, 1728, 1536, 1472, 1792, 1600, 1984, 1728, 2048, 1856, 1984, 1856, 2304, 2176, 2304, 2240, 2112, 2496, 2112, 2496, 1792, 3008, 1792, 3584, 1792, 3584, 3328, 0, 3328 )",
+						"points": "PoolVector2Array( -64, 256, 3584, 256, 3648, 1792, 2816, 1792, 1728, 1536, 1344, 1920, 1856, 2304, 2176, 2304, 2624, 2112, 2816, 1792, 3008, 1792, 3584, 1792, 3584, 3328, 0, 3328 )",
 						"layer": 100,
 						"color": "ffffffff",
 						"outline": false,
@@ -16637,7 +17815,7 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( -64, 256, 3584, 256, 3648, 1792, 2176, 1792, 2176, 1920, 1984, 1728, 1728, 1536, 1472, 1792, 1600, 1984, 1728, 2048, 1856, 1984, 1856, 2304, 2176, 2304, 2240, 2112, 2496, 2112, 2496, 1792, 3008, 1792, 3584, 1792, 3584, 3328, 0, 3328 )",
+						"points": "PoolVector2Array( -64, 256, 3584, 256, 3648, 1792, 2816, 1792, 1728, 1536, 1344, 1920, 1856, 2304, 2176, 2304, 2624, 2112, 2816, 1792, 3008, 1792, 3584, 1792, 3584, 3328, 0, 3328 )",
 						"layer": 100,
 						"color": "ceffffff",
 						"outline": false,
@@ -16979,6 +18157,26 @@
 						0,
 						0
 					]
+				},
+				"node-id-1491": {
+					"colour": "ffffffff",
+					"blur_range": 0.1,
+					"smoothness": 1,
+					"use_texture": true,
+					"shadow_direction": [
+						0,
+						0
+					]
+				},
+				"node-id-1492": {
+					"colour": "ffffffff",
+					"blur_range": 0.1,
+					"smoothness": 1,
+					"use_texture": true,
+					"shadow_direction": [
+						0,
+						0
+					]
 				}
 			},
 			"palette": [
@@ -17085,17 +18283,6 @@
 				"blur_radius": 30,
 				"mirror_shadow": 1
 			},
-			"150": {
-				"node_id": 150,
-				"force_z": false,
-				"sun_angle": 3.892084,
-				"sun_intensity": 0.02,
-				"shadow_quality": 4,
-				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 10,
-				"mirror_shadow": 1
-			},
 			"148": {
 				"node_id": 148,
 				"force_z": false,
@@ -17202,8 +18389,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"143": {
@@ -18203,8 +19390,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"195": {
@@ -18269,8 +19456,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"566": {
@@ -18291,8 +19478,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"567": {
@@ -18834,17 +20021,6 @@
 				"blur_radius": 30,
 				"mirror_shadow": 1
 			},
-			"150": {
-				"node_id": 150,
-				"force_z": false,
-				"sun_angle": 3.892084,
-				"sun_intensity": 0.02,
-				"shadow_quality": 4,
-				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 10,
-				"mirror_shadow": 1
-			},
 			"148": {
 				"node_id": 148,
 				"force_z": false,
@@ -18951,8 +20127,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"143": {
@@ -19952,8 +21128,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"195": {
@@ -20018,8 +21194,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"566": {
@@ -20040,8 +21216,8 @@
 				"sun_intensity": 0.02,
 				"shadow_quality": 4,
 				"shadow_steps": 16,
-				"shadow_strength": 1,
-				"blur_radius": 30,
+				"shadow_strength": 0.4,
+				"blur_radius": 10,
 				"mirror_shadow": 1
 			},
 			"567": {
@@ -20485,19 +21661,19 @@
 				"mirror_shadow": 1
 			}
 		},
-		"_undo_lib": "[Reference:1149645]",
-		"_mod_settings": "[Reference:1149654]",
-		"_ttf_handler": "[Reference:1150705]",
-		"_ttf_transform": "[Reference:1150748]",
-		"_free_transform": "[Reference:1150907]",
-		"_library_right_panel": "[Reference:1151446]",
-		"_drag_select_walls": "[Reference:1151632]",
+		"_undo_lib": "[Reference:1148678]",
+		"_mod_settings": "[Reference:1148687]",
+		"_ttf_handler": "[Reference:1149738]",
+		"_ttf_transform": "[Reference:1149781]",
+		"_free_transform": "[Reference:1149940]",
+		"_library_right_panel": "[Reference:1150479]",
+		"_drag_select_walls": "[Reference:1150665]",
 		"_ov_obj_hover_on": false,
 		"_extra_ui_rects": {
-
+			"select_filter_bar": "(293, 1298, 754, 41)"
 		},
 		"_free_transform_active": false,
-		"_tse_handler": "[Reference:1150801]",
+		"_tse_handler": "[Reference:1149834]",
 		"_trace_extended": {
 			"scale": 2.56,
 			"image": "E:\\repositories\\github\\BattlemapsOfTheFrostmaiden\\Chapter 2 - Icewind Dale\\Lost Spire of Netheril\\131-map-2.10-lost-spire-L-4.jpg",
@@ -20593,7 +21769,7 @@
 			"v": 2,
 			"map_name": "bm_rotf_c2_lost-spire-of-netheril_v1_14x14.dungeondraft_map",
 			"path_sha": "e7b0b8d73d080bf1d07ace31e263cdaa697c1abc50fc6977a42de46a68ce0c1a",
-			"saved_at": 1790618802,
+			"saved_at": 1790675081,
 			"levels": {
 				"0": {
 					"active": false,
@@ -20687,36 +21863,6 @@
 			"node-id-841": true
 		},
 		"_ft_crop": {
-			"node-id-200": [
-				-182.907959,
-				-61.283081,
-				-8.488281,
-				-69.768433,
-				143.304199,
-				-51.85498,
-				260.212402,
-				-28.284912,
-				273.88623,
-				123.980103,
-				-90.038086,
-				124.922913
-			],
-			"node-id-201": [
-				-145.331299,
-				-10.664795,
-				-55.998047,
-				-46.664795,
-				12.666626,
-				-56,
-				260.001953,
-				-71.331543,
-				257.335327,
-				92.668457,
-				116.001953,
-				96.668457,
-				58.001953,
-				100.668457
-			],
 			"node-id-569": [
 				-78.15625,
 				-176.371094,
